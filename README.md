@@ -37,7 +37,7 @@
 | Project | Stack | Status |
 |---------|-------|--------|
 | 🛒 ShopFlow AI — WhatsApp Business Assistant | n8n · WhatsApp · GPT-4o | 🚧 Building |
-| 🤖 AI Booking Agent — O2 Farm Stay | n8n · WhatsApp · GPT-4o | ✅ Live |
+| 🤖 AI Booking Agent — O2 Farm Stay | n8n · WhatsApp · GPT-4o | 🚧 Building |
 | 🧠 1-3-7 Spaced Repetition System | n8n · Google Sheets · Telegram | ✅ Live |
 | 📰 Daily News + UPSC Digest Bot | n8n · Telegram · OpenAI | ✅ Live |
 | 📚 ICET MCQ Practice Bot | n8n · Google Sheets · Telegram | ✅ Live |
