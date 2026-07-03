@@ -10,7 +10,7 @@
 - 🤖 Building AI automations with **n8n · Claude · Flowise · OpenAI**
 - 🚀 Currently building **ShopFlow AI** — WhatsApp-first business ops assistant for Indian micro-entrepreneurs
 - 📝 Preparing for **TGPSC Group 1** — automated my own study system
-- 🌱 Currently learning: **Prompt Engineering · AI Agents · RAG Systems**
+- 📣 Building in public as **nextlevelbuilder**
 - 📍 Based in **Hyderabad, India**
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/hemanth-goud-19a5b0347)**
 
