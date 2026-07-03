@@ -42,6 +42,7 @@
 | 📰 Daily News + UPSC Digest Bot | n8n · Telegram · OpenAI | ✅ Live |
 | 📚 ICET MCQ Practice Bot | n8n · Google Sheets · Telegram | ✅ Live |
 | 🌐 O2 Farm Stay Website + Aria Chatbot | HTML · CSS · GPT-4o | ✅ Live |
+| 🖼️ AI Product Photography/UGC content system | Seedance · AI image tools · Instagram|✅ Active |
 
 ---
 
